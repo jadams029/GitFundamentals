@@ -9,7 +9,7 @@ Take Github for example. While git is the technology that allows you to create l
 ### Adding a remote
 A remotes can be added with the `git remote add` commad, followed by the name and location of the remote. 
 
-The name is a local name, meaning it's your label and does not impace the actual remote whatsoever. 
+The name is a local name, meaning it's your label and does not impact the actual remote whatsoever. 
 
 ```
 git remote add origin https://github.com/ElevenFiftyAcademy/GitFundamentals.git
@@ -23,7 +23,7 @@ git remote remove origin
 ```
 
 ## Resources 
-`[Git Remote Documentation](https://git-scm.com/docs/git-remote)
+-[Git Remote Documentation](https://git-scm.com/docs/git-remote)
 
 ---
 
